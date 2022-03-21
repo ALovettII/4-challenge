@@ -19,7 +19,7 @@ from pathlib import Path
 ```
 
 ## Usage
-The project uses two datasets (from 10/01/2014 to 9/11/2020:
+The project uses two datasets (from 10/01/2014 to 9/11/2020):
 * Bershire Hathaway
 * Tiger Global Management 
 
